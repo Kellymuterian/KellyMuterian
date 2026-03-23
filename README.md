@@ -48,11 +48,11 @@
 
 <div align="center">
 
-✔️ Design and build backend APIs  
-✔️ Work with SQL databases and data modeling  
-✔️ Integrate payments, SMS, and email systems  
-✔️ Build internal dashboards and admin tools  
-✔️ Improve existing codebases instead of rewriting everything
+• Design and build backend APIs  
+• Work with SQL databases and data modeling  
+• Integrate payments, SMS, and email systems  
+• Build internal dashboards and admin tools  
+• Improve existing codebases instead of rewriting everything
 
 </div>
 
@@ -83,24 +83,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <!-- <img
-    src="https://github-readme-stats.vercel.app/api?username=KellyMuterian&show_icons=true&theme=transparent"
-    alt="Kelvin Muterian GitHub stats"
-  /> -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=KellyMuterian&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=KellyMuterian&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=KellyMuterian&show_icons=true" />
-  </picture>
-</div>
 
 <br/>
 <hr/>
