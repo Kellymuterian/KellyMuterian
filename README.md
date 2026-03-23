@@ -86,7 +86,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=KellyMuterian&show_icons=true&theme=transparent)"
+    src="https://github-readme-stats.vercel.app/api?username=KellyMuterian&show_icons=true&theme=transparent"
     alt="Kelvin Muterian GitHub stats"
   />
 </div>
